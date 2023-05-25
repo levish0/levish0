@@ -3,7 +3,7 @@
  <img width=1920px src="https://github.com/shiueo/shiueo/blob/main/pfp/shiueo_wallpaper.png?raw=true" alt="Project logo"></a>
 </p>
 
-<center><h3>Hello, I'm shiüo!</h3></center>
+<h3 align="center">Hello, I'm shiüo!</h3>
 
 ---
 
