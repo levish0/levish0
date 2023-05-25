@@ -13,3 +13,7 @@ source from <a href="https://gmlwjd9405.github.io">gmlwjd9405</a>
 </p>
 
 좌측이 Max Heap, 우측이 Min Heap이 됩니다.
+
+이제 볼 것은 Heap에서의 삽입, 삭제 등인데, Heap은 **Complete Binary Tree**이기에 항상 삽입할 때 인덱스 순으로 가장 마지막 위치에 이어 넣어주어야 합니다. 일단 갖다 넣은 다음에, 부모 노드와의 비교를 통해 Max Heap이든, Min Heap이든 구성해나가야 합니다.
+
+반대로 삭제할 때는, 루트 노드를 뺸 다음 가장 마지막 인덱스에 있던 값을 올리고, Max Heap이라면 올려진 노드의 자식중 더 큰걸 위로 올리는 방식으로 반복해나가면 Heap이 유지되게 됩니다. Min도 마찬가지입니다.
