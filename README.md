@@ -10,6 +10,12 @@
 ## 😌 About <a name = "about"></a>
 shiueo
 
+## 🤪 Projects <a name="projects"></a>
+| Name      | Description   |  Developer(s)   |
+|:----------|:--------------|:----------------|
+| ✅ **SIET** (05/25/2023-)  | <strong>S</strong>hiüo's <strong>I</strong>mage <strong>E</strong>ffect <strong>T</strong>oolset [[Repo]](https://github.com/shiueo/SIET) | Me |
+
+
 ## 😚 Social media <a name="social"></a>
 - [Youtube](https://www.youtube.com/channel/@shiueo)
 - [Twitter](https://twitter.com/shiueo_csh)
