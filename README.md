@@ -7,6 +7,7 @@
 
 ---
 
+
 ## 😌 About <a name = "about"></a>
 Hello, I am a quiet developer who specializes in creating software that addresses the needs I perceive or solves the tedious aspects for everyone. I have a wide range of interests including mathematics, video editing, image editing, music production, game development, and more. I am passionate about exploring multiple fields and applying my skills to develop innovative solutions.
 
