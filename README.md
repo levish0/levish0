@@ -3,12 +3,10 @@
  <img width=1920px src="https://github.com/shiueo/shiueo/blob/main/pfp/shiueo_wallpaper.png?raw=true" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Hello, I'm the cheerful developer shiüo.</h3>
-
 ---
 
 ## 😌 About <a name = "about"></a>
-shiueo
+Hello, I am a quiet developer who creates software that seems necessary to me or solves everyone's annoying problems.
 
 ## 🤪 Projects <a name="projects"></a>
 | Name      | Description   |  Developer(s)   |
