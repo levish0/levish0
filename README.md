@@ -3,11 +3,12 @@
  <img width=1920px src="https://github.com/shiueo/shiueo/blob/main/pfp/shiueo_wallpaper.png?raw=true" alt="Project logo"></a>
 </p>
 
-<h3>Hello, I'm shiüo!</h3>
+<center><h3>Hello, I'm shiüo!</h3></center>
+
 ---
 
 ## 😌 About <a name = "about"></a>
-Hello, I am a quiet developer with a wide range of interests, including mathematics, video editing, image editing, music production, and more. I specialize in creating software that addresses the needs I perceive and solves the tedious aspects for everyone.
+Hello, I am a quiet developer who specializes in creating software that addresses the needs I perceive or solves the tedious aspects for everyone. I have a wide range of interests including mathematics, video editing, image editing, music production, game development, and more. I am passionate about exploring multiple fields and applying my skills to develop innovative solutions.
 
 ## 🤪 Projects <a name="projects"></a>
 | Name      | Description   |  Developer(s)   |
