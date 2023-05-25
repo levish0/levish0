@@ -7,5 +7,9 @@
 
 ---
 
-## 🧐 About <a name = "about"></a>
+## 😌 About <a name = "about"></a>
 shiueo
+
+## 😚 Social media <a name="social"></a>
+- [Youtube](https://www.youtube.com/channel/@shiueo)
+- [Twitter](https://twitter.com/shiueo_csh)
