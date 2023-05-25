@@ -22,7 +22,11 @@
     "react": "18.2.0",
     "react-children-utilities": "^2.6.3",
     "react-dom": "18.2.0",
-    "react-feather": "^2.0.10"
+    "react-feather": "^2.0.10",
+    "rehype-katex": "^6.0.3",
+    "rehype-prism-plus": "^1.5.1",
+    "remark-gfm": "^3.0.1",
+    "remark-math": "^5.1.1"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.0",
