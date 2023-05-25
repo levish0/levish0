@@ -90,7 +90,7 @@ const About: NextPage = () => {
             </tbody>
           </table>
           <h2 id="-social-media-a-name-social-a-">
-            😚 Social media <a name="social"></a>
+            😚 Social media
           </h2>
           <ul>
             <li>
