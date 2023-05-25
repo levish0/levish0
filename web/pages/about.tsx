@@ -89,9 +89,7 @@ const About: NextPage = () => {
               </tr>
             </tbody>
           </table>
-          <h2 id="-social-media-a-name-social-a-">
-            😚 Social media
-          </h2>
+          <h2 id="-social-media-a-name-social-a-">😚 Social media</h2>
           <ul>
             <li>
               <a href="https://www.youtube.com/channel/@shiueo">Youtube</a>
