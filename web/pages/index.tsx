@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import type { GetStaticProps, NextPage } from "next";
 import Link from "next/link";
 import { getAllMdx } from "@/lib/mdx";
@@ -14,11 +15,12 @@ const Home: NextPage<HomeProps> = ({ posts }) => {
   return (
     <>
       <Page
-        title="shiüo PS Blog"
+        title="shiüo's Blog"
         description={
           <>
             <p>
-              Python / Rust
+              Hello, I'm shiüo. This is my blog where I write about various
+              topics I'm interested in or have studied!
             </p>
           </>
         }
@@ -28,7 +30,7 @@ const Home: NextPage<HomeProps> = ({ posts }) => {
           <Link
             passHref
             href="/posts"
-            className="group inline-flex items-center gap-2 text-pink-600"
+            className="inline-flex items-center gap-2 text-pink-600 group"
           >
             View more posts{" "}
             <ArrowRight

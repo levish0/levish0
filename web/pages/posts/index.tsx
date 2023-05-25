@@ -11,10 +11,7 @@ interface PostsProps {
 const Posts: NextPage<PostsProps> = ({ posts }) => {
   return (
     <>
-      <Page
-        title="Posts"
-        description="0 != 1"
-      >
+      <Page title="Posts" description="">
         <PostList posts={posts} />
       </Page>
     </>
