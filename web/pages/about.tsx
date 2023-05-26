@@ -63,20 +63,6 @@ const About: NextPage = () => {
                 </td>
                 <td style={{ textAlign: "left" }}>Me</td>
               </tr>
-              <tr>
-                <td style={{ textAlign: "left" }}>
-                  🏗️ <strong>Minecraft Calculator Tutorial</strong>{" "}
-                  (05/20/2023-)
-                </td>
-                <td style={{ textAlign: "left" }}>
-                  This project covers how to implement a calculator in Minecraft{" "}
-                  <a href="https://github.com/shiueo/Minecraft_Calculator_Tutorial">
-                    [Repo]
-                  </a>
-                </td>
-                <td style={{ textAlign: "left" }}>Me</td>
-              </tr>
-              <tr>
                 <td style={{ textAlign: "left" }}>
                   🏗️ <strong>SIET</strong> (05/25/2023-)
                 </td>
