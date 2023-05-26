@@ -63,6 +63,7 @@ const About: NextPage = () => {
                 </td>
                 <td style={{ textAlign: "left" }}>Me</td>
               </tr>
+              <tr>
                 <td style={{ textAlign: "left" }}>
                   🏗️ <strong>SIET</strong> (05/25/2023-)
                 </td>
