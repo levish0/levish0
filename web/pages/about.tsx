@@ -55,11 +55,11 @@ const About: NextPage = () => {
             <tbody>
               <tr>
                 <td style={{ textAlign: "left" }}>
-                  🏗️ <strong>VirtualKeySound</strong> (05/10/2023-)
+                  🏗️ <strong>Schlan</strong> (05/10/2023-)
                 </td>
                 <td style={{ textAlign: "left" }}>
-                  Virtual keyboard sound generator{" "}
-                  <a href="https://github.com/shiueo/VirtualKeySound">[Repo]</a>
+                  Open-source PDF Viewer{" "}
+                  <a href="https://github.com/shiueo/Schlan">[Repo]</a>
                 </td>
                 <td style={{ textAlign: "left" }}>Me</td>
               </tr>
