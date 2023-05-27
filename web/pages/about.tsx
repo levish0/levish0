@@ -55,11 +55,11 @@ const About: NextPage = () => {
             <tbody>
               <tr>
                 <td style={{ textAlign: "left" }}>
-                  🏗️ <strong>Schlan</strong> (05/10/2023-)
+                  🏗️ <strong>FConv</strong> (05/10/2023-)
                 </td>
                 <td style={{ textAlign: "left" }}>
-                  Open-source PDF Viewer{" "}
-                  <a href="https://github.com/shiueo/Schlan">[Repo]</a>
+                  Simple File Format Converter{" "}
+                  <a href="https://github.com/shiueo/FConv">[Repo]</a>
                 </td>
                 <td style={{ textAlign: "left" }}>Me</td>
               </tr>
