@@ -23,3 +23,7 @@ Hello, I am a quiet developer who specializes in creating software that addresse
 - [Youtube](https://www.youtube.com/channel/@shiueo)
 - [Twitter](https://twitter.com/shiueo_csh)
 - [Discord](https://discord.gg/NXwVfdcygM)
+
+## 🫠 Stats <a name="stats"></a>
+![shiüo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiueo&theme=midnight-purple&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiueo&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
