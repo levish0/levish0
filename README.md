@@ -14,7 +14,7 @@ Hello, I am a quiet developer who specializes in creating software that addresse
 ## 🤪 Projects <a name="projects"></a>
 [![FConv](https://github-readme-stats.vercel.app/api/pin/?username=shiueo&repo=FConv&theme=midnight-purple)](https://github.com/shiueo/FConv)
 [![SIET](https://github-readme-stats.vercel.app/api/pin/?username=shiueo&repo=SIET&theme=midnight-purple)](https://github.com/shiueo/SIET)
-[![SLANT](https://github-readme-stats.vercel.app/api/pin/?username=shiueo&repo=SLANT&theme=midnight-purple)](https://github.com/shiueo/SLANT)
+[![Slant](https://github-readme-stats.vercel.app/api/pin/?username=shiueo&repo=Slant&theme=midnight-purple)](https://github.com/shiueo/Slant)
 
 
 
