@@ -56,6 +56,15 @@ export default function Navbar() {
           <li>
             <Link href="/social">Social</Link>
           </li>
+          <li>
+            <Link href="/artoworks">Art</Link>
+          </li>
+          <li>
+            <Link href="/music">Music</Link>
+          </li>
+          <li>
+            <Link href="/softwares">Software</Link>
+          </li>
         </ul>
       </div>
       <div className="navbar-end">
