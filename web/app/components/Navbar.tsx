@@ -21,28 +21,6 @@ export default function Navbar() {
               />
             </svg>
           </label>
-          <ul
-            tabIndex={0}
-            className="p-2 mt-3 shadow menu menu-sm dropdown-content bg-base-100 rounded-box w-52"
-          >
-            <li>
-              <a>Item 1</a>
-            </li>
-            <li>
-              <a>Parent</a>
-              <ul className="p-2">
-                <li>
-                  <a>Submenu 1</a>
-                </li>
-                <li>
-                  <a>Submenu 2</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a>Item 3</a>
-            </li>
-          </ul>
         </div>
         <Link href="/" className="text-xl normal-case btn btn-ghost">
           SHIÜO
@@ -57,7 +35,7 @@ export default function Navbar() {
             <Link href="/social">Social</Link>
           </li>
           <li>
-            <Link href="/artoworks">Art</Link>
+            <Link href="/artworks">Art</Link>
           </li>
           <li>
             <Link href="/music">Music</Link>
