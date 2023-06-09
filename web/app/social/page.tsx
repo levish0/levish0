@@ -10,7 +10,7 @@ export default function Social() {
           </figure>
           <div className="card-body">
             <h2 className="card-title">Twitter!</h2>
-            <p>I'm inviting you to join me on Twitter!</p>
+            <p>I&#39;m inviting you to join me on Twitter!</p>
             <div className="justify-end card-actions">
               <button className="btn btn-primary">Buy Now</button>
             </div>
