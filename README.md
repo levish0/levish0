@@ -13,6 +13,7 @@ Hello, I am a quiet developer who specializes in creating software that addresse
 
 ## 🤪 Projects <a name="projects"></a>
 [![Jeyviz](https://github-readme-stats.vercel.app/api/pin/?username=shiueo&repo=Jeyviz&theme=midnight-purple)](https://github.com/shiueo/Jeyviz)
+[![GeoAI](https://github-readme-stats.vercel.app/api/pin/?username=shiueo&repo=GeoAI&theme=midnight-purple)](https://github.com/shiueo/GeoAI)
 
 
 
