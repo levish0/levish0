@@ -1,30 +1,52 @@
-import Image from "next/image";
+import Link from "next/link";
+import React from "react";
+import Particles from "./components/particles";
+
+const navigation = [
+  { name: "Projects", href: "/projects" },
+  { name: "Contact", href: "/contact" },
+];
 
 export default function Home() {
   return (
-    <main>
-      <div className="min-h-screen hero bg-base-200">
-        <div className="flex-col hero-content lg:flex-row-reverse">
-          <img
-            src="/shiueo_discord.png"
-            className="max-w-sm rounded-lg shadow-2xl"
-            alt="Hero_img"
-          />
-          <div>
-            <h1 className="text-5xl font-bold">Hello There!</h1>
-            <p className="py-6">
-              I am a quiet developer who specializes in creating software that
-              addresses the needs I perceive or solves tedious aspects for
-              everyone. However, in reality, I do whatever I want to do. Music,
-              illustration, programming, HOI IV, Minecraft... whatever it may
-              be, if I find it interesting and joyful, I pursue it!
-            </p>
-            <button className="btn btn-primary">
-              Check my youtube Channel! ▶
-            </button>
-          </div>
-        </div>
+    <div className="flex flex-col items-center justify-center w-screen h-screen overflow-hidden bg-gradient-to-tl from-black via-zinc-600/20 to-black">
+      <nav className="my-16 animate-fade-in">
+        <ul className="flex items-center justify-center gap-4">
+          {navigation.map((item) => (
+            <Link
+              key={item.href}
+              href={item.href}
+              className="text-sm duration-500 text-zinc-500 hover:text-zinc-300"
+            >
+              {item.name}
+            </Link>
+          ))}
+        </ul>
+      </nav>
+      <div className="hidden w-screen h-px animate-glow md:block animate-fade-left bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
+      <Particles
+        className="absolute inset-0 -z-10 animate-fade-in"
+        quantity={100}
+      />
+      <h1 className="z-10 text-4xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
+        shiüo
+      </h1>
+
+      <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
+      <div className="my-16 text-center animate-fade-in">
+        <h2 className="text-sm text-zinc-500 ">
+          안녕하세요, Unrestrained Software Engineer - shiüo입니다.
+          <br />{" "}
+          <Link
+            target="_blank"
+            href="https://schtarn.dev"
+            className="underline duration-500 hover:text-zinc-300"
+          >
+            Schtarn
+          </Link>
+          에서 일하고 있습니다.
+        </h2>
       </div>
-    </main>
+    </div>
   );
 }
