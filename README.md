@@ -22,6 +22,5 @@ Hello, I am a quiet developer who specializes in creating software that addresse
 - [Twitter](https://twitter.com/shiueo_csh)
 - [Discord](https://discord.gg/NXwVfdcygM)
 
-## 🫠 Stats <a name="stats"></a>
-![shiüo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiueo&theme=midnight-purple&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiueo&layout=compact&theme=midnight-purple)
+## 🫠 Others <a name="others"></a>
+![solved.ac profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=shiueo)
