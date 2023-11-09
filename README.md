@@ -22,3 +22,4 @@ Hello, I;m a speaking Spinach
 
 ## 🫠 Others <a name="others"></a>
 ![solved.ac profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=shiueo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiueo&layout=compact)
