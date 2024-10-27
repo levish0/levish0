@@ -1,8 +1,12 @@
-<p align="center">
-  <a href="" rel="noopener">
+### 안녕하세요. shiüo입니다.
+> 塩
+#### 🍣 Who I Am
+- **[Korea Science Academy of KAIST](https://ksa.hs.kr/) 22th**
 
-</p>
+#### 🏗️ What I Do
+- 🔥 Backend Development w/ Python & Rust
+- 😋 Sometimes Frontend w/ NextJS
+- ❤️‍🔥 Favorite Stack: FastAPI + PostgreSQL + NextJS + Nginx
 
-<h3 align="center">Hello, I'm shiüo.</h3>
-
----
+### 📮 Reach me via:
+- 📫 Email: <me@shiueo.xyz>
