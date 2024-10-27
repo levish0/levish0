@@ -8,7 +8,7 @@
 #### 🏗️ What I Do
 - 🖥️ Backend Development w/Python & Rust
 - 📱 Sometimes Frontend w/NextJS
-- ❤💓 Favorite Stack: FastAPI + PostgreSQL + NextJS + Nginx
+- 💓 Favorite Stack: FastAPI + PostgreSQL + NextJS + Nginx
 
 ### 📮 Reach me via:
 - 📫 Email: <me@shiueo.xyz>
