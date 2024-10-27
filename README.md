@@ -1,4 +1,4 @@
-### 안녕하세요. shiüo입니다.
+### Hi there! I'm shiüo.
 > 塩
 #### 🍣 Who I Am
 - 🎒 **[Korea Science Academy of KAIST](https://ksa.hs.kr/) 22th**
