@@ -6,7 +6,7 @@
 - 🎶 Occasionally creates Vocaloid covers, tuning the vocals to blend music with technology.
 
 #### 🏗️ What I Do
-- 🖥️ Backend Development w/Python & Rust
+- 🖥️ Backend Development w/[Python](https://www.python.org/) & [Rust](https://www.rust-lang.org/)
 - 📱 Sometimes Frontend w/NextJS
 - 💓 Favorite Stack: FastAPI + PostgreSQL + NextJS + Nginx
 
