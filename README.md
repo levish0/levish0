@@ -7,7 +7,7 @@
 
 #### 🏗️ What I Do
 - 🖥️ Backend Development w/[Python](https://www.python.org/) & [Rust](https://www.rust-lang.org/)
-- 📱 Sometimes Frontend w/NextJS
+- 📱 Sometimes Frontend w/[NextJS](https://nextjs.org/)
 - 💓 Favorite Stack: FastAPI + PostgreSQL + NextJS + Nginx
 
 ### 📮 Reach me via:
