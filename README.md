@@ -10,6 +10,7 @@
 - 🖥️ Backend Development w/[Python](https://www.python.org/) & [Rust](https://www.rust-lang.org/)
 - 📱 Sometimes Frontend w/[NextJS](https://nextjs.org/)
 - 💓 Favorite Stack: FastAPI + PostgreSQL + NextJS + Nginx
+- 🛠️ Currently developing the sevenwiki parser at UwU LLC
 
 ### 📮 Reach me via:
 - 📫 Email: <levish@uwu.am>
