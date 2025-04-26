@@ -1,7 +1,7 @@
 ## Hi there! I'm [shiüo](https://shiueo.xyz).
 > 塩 / Filling life
 #### 🍣 Who I Am
-- ⚡ **[Korea Advanced Institute of Science and Technology (KAIST SSE)](https://www.kaist.ac.kr/en/) 25th**
+- ⚡ **[Korea Advanced Institute of Science and Technology (KAIST SSE & KAIST CS)](https://www.kaist.ac.kr/en/) 25th**
 - 🎒 **[Korea Science Academy of KAIST (KSA)](https://ksa.hs.kr/) 22th**
 - 🎸 Amateur guitarist who enjoys [covering music](https://www.youtube.com/@shiueo) on electric guitar.
 - 🎶 Occasionally creates [Vocaloid covers](https://www.youtube.com/@shiueo), tuning the vocals to blend music with technology.
