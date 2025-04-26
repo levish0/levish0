@@ -12,4 +12,4 @@
 - 💓 Favorite Stack: FastAPI + PostgreSQL + NextJS + Nginx
 
 ### 📮 Reach me via:
-- 📫 Email: <levish@uwu.am>
+- 📫 Email: <shiueo.csh@gmail.com>
