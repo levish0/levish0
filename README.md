@@ -1,5 +1,5 @@
 ## Hi there! I'm [shiüo](https://shiueo.xyz).
-> 塩 / Filling life
+> カナイシュコウ
 #### 🍣 Who I Am
 - ⚡ **[Korea Advanced Institute of Science and Technology (KAIST SSE & KAIST CS)](https://www.kaist.ac.kr/en/) 25th**
 - 🎒 **[Korea Science Academy of KAIST (KSA)](https://ksa.hs.kr/) 22th**
