@@ -10,7 +10,7 @@
 #### 🏗️ What I Do
 - 🖥️ Backend Development w/[Python](https://www.python.org/) & [Rust](https://www.rust-lang.org/)
 - 📱 Sometimes Frontend w/[NextJS](https://nextjs.org/) & [Svelte](https://svelte.dev/)
-- 💓 Favorite Stack: FastAPI + PostgreSQL + NextJS + Nginx
+- 💓 Favorite Stack: Axum + PostgreSQL + Svelte + Nginx
 
 ### 📮 Reach me via:
 - 📫 Email: <shiueo.csh@gmail.com>
