@@ -1,7 +1,7 @@
 ## Hi there! I'm [shiüo](https://shiueo.xyz).
 > カナイシュコウ
 #### 🍣 Who I Am
-- 💻 **[HYU GEC](https://gifted.hanyang.ac.kr/) 2019**
+- 💻 **[Hanyang University Software Gifted Education Center (HYU GEC)](https://gifted.hanyang.ac.kr/) 2019**
 - 🎒 **[Korea Science Academy of KAIST (KSA)](https://ksa.hs.kr/) 22th**
 - ⚡ **[Korea Advanced Institute of Science and Technology (KAIST SSE & KAIST CS)](https://www.kaist.ac.kr/en/) 25th**
 - 🎸 Amateur guitarist who enjoys [covering music](https://www.youtube.com/@shiueo) on electric guitar.
