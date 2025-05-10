@@ -1,5 +1,5 @@
 ## Hi there! I'm [shiüo](https://shiueo.xyz).
-> カナイシュコウ
+
 #### 🍣 Who I Am
 - 💻 **[Hanyang University Software Gifted Education Center (HYU GEC)](https://gifted.hanyang.ac.kr/) 2019**
 - 🎒 **[Korea Science Academy of KAIST (KSA)](https://ksa.hs.kr/) 22th**
