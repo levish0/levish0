@@ -8,8 +8,8 @@
 - 🎶 Occasionally creates [Vocaloid covers](https://www.youtube.com/@shiueo), tuning the vocals to blend music with technology.
 
 #### 🏗️ What I Do
-- 🖥️ Backend Development w/[Python](https://www.python.org/) & [Rust](https://www.rust-lang.org/)
-- 📱 Sometimes Frontend w/[NextJS](https://nextjs.org/) & [Svelte](https://svelte.dev/)
+- 🖥️ Backend Development w/[Rust](https://www.rust-lang.org/) & [Python](https://www.python.org/)
+- 📱 Frontend Development w/[NextJS](https://nextjs.org/) & [Svelte](https://svelte.dev/)
 - 💓 Favorite Stack: Axum + PostgreSQL + Svelte + Nginx
 
 ### 📮 Reach me via:
