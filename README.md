@@ -1,4 +1,4 @@
-## Hi there! I'm [shiüo](https://shiueo.xyz).
+## Hi there! I'm [levish](https://shiueo.xyz).
 
 #### 🍣 Who I Am
 - 💻 **[Hanyang University Software Gifted Education Center (HYU GEC)](https://gifted.hanyang.ac.kr/) 2019**
