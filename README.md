@@ -13,7 +13,7 @@ Software Engineer / Architect :: Levish, be lavish.
 #### 🏗️ What I Do
 - 🖥️ Backend Development w/[Rust](https://www.rust-lang.org/) & [Python](https://www.python.org/)
 - 📱 Frontend Development w/[Svelte](https://svelte.dev/) & [NextJS](https://nextjs.org/)
-- 💓 Favorite Stack: Axum + PostgreSQL + Svelte + (Caddy / Nginx)
+- 💓 Favorite Stack: Axum + PostgreSQL + Svelte + Caddy
 
 ### 📮 Reach me via:
 - 📫 Email: <shiueo.csh@gmail.com>
