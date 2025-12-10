@@ -6,7 +6,7 @@ Software Engineer / Architect :: Levish, be lavish.
 - 💻 **[Hanyang University Software Gifted Education Center (HYU GEC)](https://gifted.hanyang.ac.kr/) 2019**
 - 🎒 **[Korea Science Academy of KAIST (KSA)](https://ksa.hs.kr/) 22th**
 - ⚡ **[Korea Advanced Institute of Science and Technology (KAIST CS & KAIST SSE)](https://www.kaist.ac.kr/en/) 25th**
-- ✨ **CTO at [Relic Inc.](https://relic.io), responsible for [Sevenwiki](https://seven.wiki)**
+- ✨ **CTO at [Tendou Inc.](https://tendou.io), responsible for [Sevenwiki](https://seven.wiki)**
 - ☁️ **Lead Developer of [Datascale Cloud](https://github.com/Datascale-Cloud)**
 - 🎸 **KAIST Hard Rock Band KANGJEOK 40th [Guitar](https://www.youtube.com/@levi-sh0)**
 - 🎶 Occasionally creates [Vocaloid covers](https://www.youtube.com/@levi-sh0), tuning the vocals to blend music with technology.
