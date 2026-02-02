@@ -7,6 +7,7 @@ Software Engineer / Architect :: Levish, be lavish.
 - 🎒 **[Korea Science Academy of KAIST (KSA)](https://ksa.hs.kr/) 22th**
 - ⚡ **[Korea Advanced Institute of Science and Technology (KAIST CS & KAIST SSE)](https://www.kaist.ac.kr/en/) 25th**
 - ✨ **CTO at [Tendou Inc.](https://tendou.io), responsible for [Sevenwiki](https://seven.wiki)**
+- ✨ **CTO at [Sentia](https://sentia.co.kr)**
 - 🎸 **KAIST Hard Rock Band KANGJEOK 40th [Guitar](https://www.youtube.com/@levi-sh0)**
 - 🎶 Occasionally creates [Vocaloid covers](https://www.youtube.com/@levi-sh0), tuning the vocals to blend music with technology.
 
