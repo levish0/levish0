@@ -4,7 +4,8 @@
 > ...should be held close and cherished.
 
 ### 💼 Experience
-- **CTO** at [**Scentia**](https://scentia.co.kr), ([Github](https://github.com/scentia-dev)) | 2026 - Present  
+- **CTO** at [**Scentia**](#) - Building [scentia](https://scentia.co.kr)) | 2026 - Present
+- **CTO** at [**Tendou LLC**](https://tendou.io) - Building [sevenwiki](https://seven.wiki) | 2026 - Present
 
 ### 🎓 Education
 - [**KAIST**](https://www.kaist.ac.kr/en/) (Korea Advanced Institute of Science and Technology) | '25  
