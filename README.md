@@ -5,8 +5,6 @@
 
 ### 💼 Experience
 - **CTO** at [**Scentia**](https://scentia.co.kr) | 2026 - Present
-  - **Lead Backend Architect**: System design and infrastructure orchestration.
-  - **Full-stack Contributor**: Supporting overall development and integration.
 
 ### 🎓 Education
 - [**KAIST**](https://www.kaist.ac.kr/en/) (Korea Advanced Institute of Science and Technology) | '25  
