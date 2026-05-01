@@ -1,7 +1,7 @@
-## Hi there! I'm [levish](https://levi0.sh).
+## Hi there! I'm levish.
 
-on days like these, kids like you...   
-...should be held close and cherished.
+> on days like these, kids like you...   
+> ...should be held close and cherished.
 
 ### 🎓 Education
 - **KAIST** (Korea Advanced Institute of Science and Technology) | '25  
