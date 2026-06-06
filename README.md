@@ -2,7 +2,7 @@
 
 ### 💼 Experience
 - **CTO** at [**Scentia**](#) - Building [scentia](https://scentia.co.kr) | 2026 - Present
-- **CTO** at [**Tendou LLC**](https://tendou.io) - Building [sevenwiki](https://seven.wiki) | 2026 - Present
+- **CTO** at [**Tendou LLC**](https://tendou.io) - Building [sevenwiki](https://seven.wiki) | 2025 - Present
 
 ### 🎓 Education
 - [**KAIST**](https://www.kaist.ac.kr/en/) (Korea Advanced Institute of Science and Technology) | '25  
