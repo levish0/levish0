@@ -1,7 +1,7 @@
 ## Hi there! I'm levish.
 
 ### 💼 Experience
-- **CTO** at [**Scenfit**](#) - Building [scenfit](https://scenfit.com) | 2026 - Present
+- **CTO** at [**Scenfit**](https://scenfit.com) - Building [scenfit](https://scenfit.com) | 2026 - Present
 - **CTO** at [**Tendou LLC**](https://tendou.io) - Building [sevenwiki](https://seven.wiki) | 2024 - Present
 
 ### 🎓 Education
