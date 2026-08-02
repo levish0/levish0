@@ -11,4 +11,4 @@
 - [**HYU GEC**](https://gifted.hanyang.ac.kr/) (Hanyang Univ. Gifted Education Center for **Software**) | '19
 
 ### 📮 Reach me via:
-- 📫 Email: <shiueo.csh@gmail.com>
+- 📫 Email: <levi.laine.me@gmail.com>
