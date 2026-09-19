@@ -1,0 +1,105 @@
+name: Temporary Beautyworld Dubai discovery
+
+on:
+  push:
+    branches:
+      - automation/beautyworld-dubai-2026-research
+    paths:
+      - .github/workflows/beautyworld_discovery.yml
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout temporary branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git clone --branch automation/beautyworld-dubai-2026-research "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" repo
+
+      - name: Install Playwright
+        working-directory: repo
+        run: |
+          mkdir -p /tmp/bw
+          cd /tmp/bw
+          npm init -y >/dev/null 2>&1
+          npm install playwright@1.55.0
+          npx playwright install chromium --with-deps
+
+      - name: Capture filtered exhibitor search
+        working-directory: repo
+        run: |
+          mkdir -p .research
+          cat > /tmp/bw/discover.mjs <<'EOF'
+          import { chromium } from 'playwright';
+          import fs from 'node:fs';
+
+          const base = 'https://beautyworld-dubai.ae.messefrankfurt.com/dubai/en/exhibitor-search.html?categoryId=mf_ppx_slx_9843775%2Cmf_ppx_slx_9843790&page=1&pagesize=30';
+          const browser = await chromium.launch({ headless: true });
+          const context = await browser.newContext({
+            viewport: { width: 1440, height: 1200 },
+            userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36'
+          });
+          const page = await context.newPage();
+          const requests = [];
+          const responses = [];
+          const consoleMessages = [];
+
+          page.on('request', async request => {
+            const url = request.url();
+            if (/messefrankfurt|exhibitor|product|search/i.test(url)) {
+              let headers = {};
+              try { headers = await request.allHeaders(); } catch {}
+              requests.push({ url, method: request.method(), resourceType: request.resourceType(), headers, postData: request.postData() });
+            }
+          });
+          page.on('response', async response => {
+            const url = response.url();
+            if (/api\.messefrankfurt|exhibitor|product|search/i.test(url)) {
+              let body = '';
+              try { body = await response.text(); } catch (error) { body = `[body unavailable: ${error}]`; }
+              responses.push({ url, status: response.status(), headers: await response.allHeaders().catch(() => ({})), body: body.slice(0, 3000000) });
+            }
+          });
+          page.on('console', msg => consoleMessages.push(`${msg.type()}: ${msg.text()}`));
+          page.on('pageerror', error => consoleMessages.push(`pageerror: ${error.stack || error}`));
+
+          await page.goto(base, { waitUntil: 'domcontentloaded', timeout: 120000 });
+          for (const label of ['Accept all', 'Accept All', 'Allow all', 'I agree']) {
+            const button = page.getByRole('button', { name: label, exact: false });
+            if (await button.count()) {
+              try { await button.first().click({ timeout: 3000 }); } catch {}
+            }
+          }
+          await page.waitForTimeout(30000);
+
+          const pageData = await page.evaluate(() => {
+            const anchors = [...document.querySelectorAll('a')].map(a => ({ text: (a.textContent || '').replace(/\s+/g, ' ').trim(), href: a.href }));
+            return {
+              title: document.title,
+              url: location.href,
+              bodyText: document.body.innerText,
+              exhibitorLinks: anchors.filter(a => /exhibitor-search\.detail\.html/i.test(a.href)),
+              allLinks: anchors
+            };
+          });
+
+          await page.screenshot({ path: '.research/beautyworld_discovery.png', fullPage: true });
+          fs.writeFileSync('.research/beautyworld_discovery.json', JSON.stringify({ capturedAt: new Date().toISOString(), pageData, requests, responses, consoleMessages }, null, 2));
+          fs.writeFileSync('.research/beautyworld_discovery.html', await page.content());
+          await browser.close();
+          EOF
+          NODE_PATH=/tmp/bw/node_modules node /tmp/bw/discover.mjs
+
+      - name: Commit discovery output
+        working-directory: repo
+        run: |
+          git config user.name 'beautyworld-research-bot'
+          git config user.email 'beautyworld-research-bot@users.noreply.github.com'
+          git add .research/beautyworld_discovery.json .research/beautyworld_discovery.html .research/beautyworld_discovery.png
+          git commit -m 'chore: capture Beautyworld exhibitor search [skip ci]'
+          git push origin HEAD:automation/beautyworld-dubai-2026-research
