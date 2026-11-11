@@ -1,7 +1,7 @@
 ## Hi there! I'm levish.
 
 ### 💼 Experience
-- **Product Engineer** at Extriver | Nov '26 - Present
+- **Product Engineer** at [**Extriver**](http://extriver.com) | Nov '26 - Present
 - **Technical Advisor** at SNTC | Aug '26 - Present
 - **Staff Engineer** at [**Sentinel**](https://sentinel.st) - Leading backend development at an SI company | Jul '26 - Present
 - **Staff Engineer** - Built [**Beaup**](https://beaup.co.kr), a CRM platform for hair salons and spas in S.Korea and Vietnam, covering reservations, messaging, and payments | Jul '26 - Present
